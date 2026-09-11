@@ -1,11 +1,12 @@
 # Python_Mobile
 
-Interfaces Gráficas em Python com Flet]
+Interfaces Gráficas em Python com Flet
 
 Repositório com exemplos práticos de interfaces de usuário (UI) desenvolvidas em Python utilizando o framework Flet. 
 O projeto reúne desde cartões de apresentação até formulários interativos e gerenciadores de lista.  
 
 📌 Telas do Projeto
+
 📄 tela1.py — Cartão de Apresentação Simples
 Descrição: Interface minimalista centralizada que exibe o nome do desenvolvedor e seu cargo.  
 Destaques: Configuração de alinhamento, dimensões personalizadas de janela e uso de cores personalizadas no fundo.  
